@@ -1,0 +1,109 @@
+body{
+margin:0;
+background-color:#eee;
+}
+
+header{
+    background-image: linear-gradient(#ddd,#bbb);
+    padding: 20px;
+    text-align: center;
+}
+
+.a{
+    padding:20px;
+}
+
+.aa{
+    text-align:center;
+    padding: 20px;
+}
+
+.circle{
+width:60px;
+height: 60px;
+background-color: ccc;
+border-radius: 50%;
+display: inline-block;
+margin: 5px;
+}
+
+footer{
+    background-color: gray;
+    padding: 20px;
+    display: flex;
+}
+
+.nav{
+background-color: ccc;
+padding: 10px;
+}
+
+.nav ul{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.nav li{
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+nav a:hover{
+    text-decoration:underline;
+}
+.logo{
+    position: absolute;
+    top: 10px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.logo img{
+    width: 80px;
+    height: 80px;
+}
+
+.logo img:hover{
+    border: 2px black solid;
+}
+
+.b1 img:hover{
+border: 2px black solid;
+}
+
+.b2 img:hover{
+    border: 2px solid black;
+
+}
+
+.b3 img:hover{
+    border: 2px solid black;
+
+}
+.b4 img:hover{
+    border: 2px solid black;
+
+}
+
+.b5 img:hover{
+    border: 2px solid black;
+
+}
+
+.b6 img:hover{
+    border: 2px solid black;
+
+}
+
+li a{
+    text-transform: none;
+    background-color: aliceblue;
+    color: white;
+    padding: 6px;
+    border-radius: 10px;
+}
